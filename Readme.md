@@ -38,3 +38,9 @@ rm -rf ~/.aws
 - terraform plan
 - terraform apply
 - terraform destroy
+
+> Auto approve if you want
+```bash
+terraform apply --auto-approve
+terraform destroy --auto-approve
+```
