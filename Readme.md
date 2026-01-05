@@ -44,3 +44,14 @@ rm -rf ~/.aws
 terraform apply --auto-approve
 terraform destroy --auto-approve
 ```
+
+> If you want to see output in the terraform then...
+```bash
+terraform output
+```
+
+## Export environment variable: Example
+
+```bash
+export tf_var_environment=stage
+```
