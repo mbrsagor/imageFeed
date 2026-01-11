@@ -15,7 +15,7 @@ If you haven't already, install the AWS CLI for your operating system. You can f
 > Once installed, open your terminal and run the following command to configure your AWS CLI:
 
 ```bash
- aws configure
+aws configure
 ```
 After that ask you input some information like this:
 ```bash
