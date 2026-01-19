@@ -56,6 +56,13 @@ terraform output
 export tf_var_environment=stage
 ```
 
+#### 📁 Typical file structure
+.
+├── main.tf
+├── variables.tf
+├── terraform.tfvars
+
+
 #### Github link:
 ```bash
 https://github.com/piyushsachdeva/Terraform-Full-Course-Aws
